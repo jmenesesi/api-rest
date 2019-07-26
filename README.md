@@ -1,5 +1,5 @@
 # api-rest
-Proyecto de ejemplo para API Rest hecha con Node JS y MongoDB
+Proyecto de ejemplo para API Rest hecho con Node JS y MongoDB
 
 Para descargar el proyecto puedes ejecutar el siguiente comando:
 
